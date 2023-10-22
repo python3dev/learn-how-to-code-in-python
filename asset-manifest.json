@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/learn-how-to-code-in-python/static/css/main.073c9b0a.css",
-    "main.js": "/learn-how-to-code-in-python/static/js/main.5fae25ad.js",
+    "main.css": "/learn-how-to-code-in-python/static/css/main.b82a3cbd.css",
+    "main.js": "/learn-how-to-code-in-python/static/js/main.39dd6311.js",
     "static/js/787.d26ba886.chunk.js": "/learn-how-to-code-in-python/static/js/787.d26ba886.chunk.js",
+    "static/media/ph.jpg": "/learn-how-to-code-in-python/static/media/ph.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.svg": "/learn-how-to-code-in-python/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/learn-how-to-code-in-python/index.html",
-    "main.073c9b0a.css.map": "/learn-how-to-code-in-python/static/css/main.073c9b0a.css.map",
-    "main.5fae25ad.js.map": "/learn-how-to-code-in-python/static/js/main.5fae25ad.js.map",
+    "main.b82a3cbd.css.map": "/learn-how-to-code-in-python/static/css/main.b82a3cbd.css.map",
+    "main.39dd6311.js.map": "/learn-how-to-code-in-python/static/js/main.39dd6311.js.map",
     "787.d26ba886.chunk.js.map": "/learn-how-to-code-in-python/static/js/787.d26ba886.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5fae25ad.js"
+    "static/css/main.b82a3cbd.css",
+    "static/js/main.39dd6311.js"
   ]
 }
