@@ -32,7 +32,7 @@ function NavScrollExample() {
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="#" disabled>
-              Link
+              {'-->'}
             </Nav.Link>
           </Nav>
  
